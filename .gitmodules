@@ -4,3 +4,6 @@
 [submodule "submodules/autonomous-driving-deep-rl"]
 	path = submodules/autonomous-driving-deep-rl
 	url = https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning.git
+[submodule "submodules/rl-frenet-trajectory-planning"]
+	path = submodules/rl-frenet-trajectory-planning
+	url = https://github.com/MajidMoghadam2006/RL-frenet-trajectory-planning-in-CARLA.git
