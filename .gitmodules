@@ -1,0 +1,3 @@
+[submodule "submodules/carla-driving-rl-agent"]
+	path = submodules/carla-driving-rl-agent
+	url = https://github.com/Luca96/carla-driving-rl-agent.git
