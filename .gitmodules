@@ -7,3 +7,6 @@
 [submodule "submodules/rl-frenet-trajectory-planning"]
 	path = submodules/rl-frenet-trajectory-planning
 	url = https://github.com/MajidMoghadam2006/RL-frenet-trajectory-planning-in-CARLA.git
+[submodule "submodules/data-collector"]
+	path = submodules/data-collector
+	url = https://github.com/carla-simulator/data-collector.git
